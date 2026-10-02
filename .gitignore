@@ -1,0 +1,17 @@
+# Node / React Native
+node_modules/
+.expo/
+dist/
+build/
+*.lock
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+.env
+
+# OS Files
+.DS_Store
+Thumbs.db
